@@ -1,0 +1,22 @@
+/*Selector universal*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #deb887;
+}
+
+header{
+    border: solid 3px brown;
+    padding: 20px;
+    margin: 80px;
+}
+
+
+section, h1 {
+    border: solid 2px greenyellow;
+    padding: 80px 0px;
+    
+}
